@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="31595" started-at="2017-11-25T14:33:15Z" finished-at="2017-11-25T14:33:46Z">
+    <groups>
+    </groups>
+    <test name="Nopackage" duration-ms="31595" started-at="2017-11-25T14:33:15Z" finished-at="2017-11-25T14:33:46Z">
+      <class name="Test">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Test@28d25987]" name="setup" is-config="true" duration-ms="4341" started-at="2017-11-25T09:33:15Z" finished-at="2017-11-25T09:33:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="register()[pri:0, instance:Test@28d25987]" name="register" duration-ms="27201" started-at="2017-11-25T09:33:19Z" finished-at="2017-11-25T09:33:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+      </class> <!-- Test -->
+    </test> <!-- Nopackage -->
+  </suite> <!-- Suite1 -->
+</testng-results>
