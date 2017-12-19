@@ -99,8 +99,6 @@ public class Test {
 	    //log out
 	   // browsers.findElement(By.xpath("/html/body/div/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr[1]/td[2]/table/tbody/tr[7]/td/table/tbody/tr/td[3]/a/img"));
 	    //browsers.get("http://newtours.demoaut.com/mercurypurchase2.php");
-	    //checkout
-	    //checkin
-	    //check ==
+	 
 	}
 }
